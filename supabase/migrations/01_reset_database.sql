@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS "public"."exported_files" CASCADE;
+DROP TABLE IF EXISTS "public"."audit_logs" CASCADE;
+DROP TABLE IF EXISTS "public"."alerts" CASCADE;
+DROP TABLE IF EXISTS "public"."alert_templates" CASCADE;
+DROP TABLE IF EXISTS "public"."alert_rules" CASCADE;
+DROP TABLE IF EXISTS "public"."calibration_logs" CASCADE;
+DROP TABLE IF EXISTS "public"."sensor_readings" CASCADE;
+DROP TABLE IF EXISTS "public"."devices" CASCADE;
+DROP TABLE IF EXISTS "public"."users" CASCADE;
+DROP TABLE IF EXISTS "public"."organizations" CASCADE;
